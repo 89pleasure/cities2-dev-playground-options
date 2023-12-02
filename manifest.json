@@ -1,0 +1,9 @@
+{
+  "name": "DevPlaygroundOptions",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/89pleasure/cities2-dev-playground-options",
+  "description": "Simple mod which enables dev options in the menu without developer mode.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
